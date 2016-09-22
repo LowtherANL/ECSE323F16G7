@@ -1,0 +1,2 @@
+Files for the labs. I'm planning to run a separate folder for each lab. The first lump will be copied from what we have, otherwise, commit stuff as it's made.
+I'll be expanding the gitignore to handle the generated files when we have more of them, and the git settings to keep the line endings to lf, and any other odd stylistic issues I prefer. 
