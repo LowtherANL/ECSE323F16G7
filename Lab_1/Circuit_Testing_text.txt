@@ -1,0 +1,4 @@
+Circuit Testing
+
+Two scripts were written to test the circuit. The first covered each of the simple cases, with a single high bit, the error case, where all bits were low, and then a set of more complex cases, where there were two high bits. Because the code for the circuit should function regardless of the number of extra high bits, testing with one extra was assumed to cover all such cases. 
+To double check, an exhaustive case was written, which generated all possible outputs. This was also run, and various points were inspected. Those were the cases from the limited test (to ensure matching results), other points, such as having all 1's except the 16th bit, and all 0's but the 16th bit, were checked to verify that the circuit was correctly handling the multiple-high cases. 
