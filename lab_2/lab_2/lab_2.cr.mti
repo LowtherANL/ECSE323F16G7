@@ -1,0 +1,28 @@
+{P:/323 LAB/Lab_2/ECSE323F16G7-lab_2/lab_2/simulation/modelsim/g07_64_6_encoder_spec_tst.vhd} {1 {vcom -work work -2002 -explicit -stats=none {P:/323 LAB/Lab_2/ECSE323F16G7-lab_2/lab_2/simulation/modelsim/g07_64_6_encoder_spec_tst.vhd}
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity g07_64_6_encoder_vhd_spec_tst
+-- Compiling architecture g07_64_6_encoder_arch of g07_64_6_encoder_vhd_spec_tst
+
+} {} {}} {P:/323 LAB/Lab_2/ECSE323F16G7-lab_2/lab_2/g07_16_4_Encoder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {P:/323 LAB/Lab_2/ECSE323F16G7-lab_2/lab_2/g07_16_4_Encoder.vhd}
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity g07_16_4_Encoder
+-- Compiling architecture Encoder_16_4 of g07_16_4_Encoder
+
+} {} {}} {P:/323 LAB/Lab_2/ECSE323F16G7-lab_2/lab_2/g07_64_6_encoder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {P:/323 LAB/Lab_2/ECSE323F16G7-lab_2/lab_2/g07_64_6_encoder.vhd}
+Model Technology ModelSim ALTERA vcom 10.3d Compiler 2014.10 Oct  7 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity g07_64_6_encoder
+-- Compiling architecture encoder_64_6 of g07_64_6_encoder
+
+} {} {}}
