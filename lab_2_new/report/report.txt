@@ -1,0 +1,5 @@
+The keyboard encoder circuit takes a 64 bit input, and returns a 7 bit output. The 7 bit output represents the ascii code of the selected key, with each input line representing a single key. The codes are mapped from " " (space character, ascii 32) on the 0th input, to "_" (underscore, ascii 95) on the 63rd input. 
+This ordering was chosen as the simplest conversion from key index to an appropriate ascii code. 
+
+The keyboard encoder was tested twice. Once using a vhdl testbench that walked through all 64 simple cases. The multiple key cases were not tested, as those had been covered in tests for the 64 to 6 encoder circuit used as a component in the keyboard encoder. 
+In addition, the circuit was tested on the De1-SOC board. To do so, the output of the encoder was put through an ascii to 7 segment display decoder. Switches on the FPGA board were linked to key inputs, and a 7 segment display on the board was used to verify the behaviour. 

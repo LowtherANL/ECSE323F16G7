@@ -1,0 +1,124 @@
+# -------------------------------------------------------------------------- #
+#
+# Copyright (C) 1991-2015 Altera Corporation. All rights reserved.
+# Your use of Altera Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Altera Program License 
+# Subscription Agreement, the Altera Quartus II License Agreement,
+# the Altera MegaCore Function License Agreement, or other 
+# applicable license agreement, including, without limitation, 
+# that your use is for the sole purpose of programming logic 
+# devices manufactured by Altera and sold by Altera or its 
+# authorized distributors.  Please refer to the applicable 
+# agreement for further details.
+#
+# -------------------------------------------------------------------------- #
+#
+# Quartus II 64-Bit
+# Version 15.0.0 Build 145 04/22/2015 SJ Full Version
+# Date created = 15:38:05  October 12, 2016
+#
+# -------------------------------------------------------------------------- #
+#
+# Notes:
+#
+# 1) The default values for assignments are stored in the file:
+#		g07_BlockerGame_assignment_defaults.qdf
+#    If this file doesn't exist, see file:
+#		assignment_defaults.qdf
+#
+# 2) Altera recommends that you do not modify this file. This
+#    file is updated automatically by the Quartus II software
+#    and any changes you make may be lost or overwritten.
+#
+# -------------------------------------------------------------------------- #
+
+
+set_global_assignment -name FAMILY "Cyclone V"
+set_global_assignment -name DEVICE 5CSEMA5F31C6
+set_global_assignment -name TOP_LEVEL_ENTITY g07_keyboard_LED
+set_global_assignment -name ORIGINAL_QUARTUS_VERSION 15.0.0
+set_global_assignment -name PROJECT_CREATION_TIME_DATE "15:38:05  OCTOBER 12, 2016"
+set_global_assignment -name LAST_QUARTUS_VERSION 15.0.0
+set_global_assignment -name PROJECT_OUTPUT_DIRECTORY output_files
+set_global_assignment -name MIN_CORE_JUNCTION_TEMP 0
+set_global_assignment -name MAX_CORE_JUNCTION_TEMP 85
+set_global_assignment -name ERROR_CHECK_FREQUENCY_DIVISOR 256
+set_global_assignment -name EDA_SIMULATION_TOOL "ModelSim-Altera (VHDL)"
+set_global_assignment -name EDA_OUTPUT_DATA_FORMAT VHDL -section_id eda_simulation
+set_global_assignment -name POWER_PRESET_COOLING_SOLUTION "23 MM HEAT SINK WITH 200 LFPM AIRFLOW"
+set_global_assignment -name POWER_BOARD_THERMAL_MODEL "NONE (CONSERVATIVE)"
+set_global_assignment -name VHDL_FILE g07_keyboard_LED.vhd
+set_global_assignment -name VHDL_FILE simulation/modelsim/g07_keyboard_encoder_spec_tst.vhd
+set_global_assignment -name VHDL_FILE simulation/modelsim/g07_64_6_encoder_spec_tst.vhd
+set_global_assignment -name VHDL_FILE simulation/modelsim/g07_16_4_Encoder_tst.vhd
+set_global_assignment -name VHDL_FILE simulation/modelsim/g07_16_4_Encoder_spec_tst.vhd
+set_global_assignment -name VHDL_FILE simulation/modelsim/g07_7_segment_decoder_tst.vhd
+set_global_assignment -name VHDL_FILE g07_keyboard_encoder.vhd
+set_global_assignment -name VHDL_FILE g07_64_6_encoder.vhd
+set_global_assignment -name VHDL_FILE g07_16_4_Encoder.vhd
+set_global_assignment -name VHDL_FILE g07_7_segment_decoder.vhd
+set_global_assignment -name PARTITION_NETLIST_TYPE SOURCE -section_id Top
+set_global_assignment -name PARTITION_FITTER_PRESERVATION_LEVEL PLACEMENT_AND_ROUTING -section_id Top
+set_global_assignment -name PARTITION_COLOR 16764057 -section_id Top
+set_global_assignment -name STRATIX_DEVICE_IO_STANDARD "2.5 V"
+set_location_assignment PIN_AB12 -to inputs[16]
+set_location_assignment PIN_AC12 -to inputs[17]
+set_location_assignment PIN_AF9 -to inputs[18]
+set_location_assignment PIN_AF10 -to inputs[19]
+set_location_assignment PIN_AD11 -to inputs[20]
+set_location_assignment PIN_AD12 -to inputs[21]
+set_location_assignment PIN_AE11 -to inputs[22]
+set_location_assignment PIN_AC9 -to inputs[23]
+set_location_assignment PIN_AD10 -to inputs[24]
+set_location_assignment PIN_AE12 -to inputs[25]
+set_location_assignment PIN_AE26 -to CODE[0]
+set_location_assignment PIN_AE27 -to CODE[1]
+set_location_assignment PIN_AE28 -to CODE[2]
+set_location_assignment PIN_AG27 -to CODE[3]
+set_location_assignment PIN_AF28 -to CODE[4]
+set_location_assignment PIN_AG28 -to CODE[5]
+set_location_assignment PIN_AH28 -to CODE[6]
+set_global_assignment -name CDF_FILE output_files/Chain1.cdf
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[63] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[62] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[61] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[60] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[59] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[58] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[57] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[56] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[55] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[54] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[53] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[52] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[51] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[50] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[49] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[48] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[47] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[46] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[45] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[44] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[43] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[42] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[41] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[40] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[39] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[38] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[37] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[36] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[35] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[34] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[33] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[32] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[31] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[30] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[29] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[28] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[27] -section_id GroundInputs
+set_global_assignment -name ASSIGNMENT_GROUP_MEMBER inputs[26] -section_id GroundInputs
+set_instance_assignment -name PARTITION_HIERARCHY root_partition -to | -section_id Top

@@ -1,0 +1,25 @@
+
+\documentclass[12pt,letterpaper,titlepage]{article}
+
+\usepackage{amsmath, amsthm, amsfonts, amssymb, amscd}
+\usepackage{subfiles}
+\usepackage{graphicx}
+\usepackage{pdfpages}
+
+\begin{document}
+\begin{titlepage}
+	\centering
+	{\LARGE Digital Systems Design \par}
+	{\LARGE ECSE 323 \par}
+	\vspace{.5cm}
+	{\LARGE Lab Report 2}
+	{\LARGE Keyboard Encoder}
+	\vfill
+	Jaeho Lee \\
+	Andrew Lowther \\
+\end{titlepage}
+
+\subfile{circuitdescription.tex}
+\subfile{testing.tex}
+\includepdf[pages=1]{lab_2_cert.pdf}
+\end{document}

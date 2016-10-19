@@ -1,0 +1,379 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/altera/15.0
+Eg07_16_4_encoder
+Z0 w1476197695
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dP:/DSD/lab_2_v15
+Z5 8P:/DSD/lab_2_v15/g07_16_4_Encoder.vhd
+Z6 FP:/DSD/lab_2_v15/g07_16_4_Encoder.vhd
+l0
+L5
+Vm1QMOhZ0lQ`d8kB]_2OdI3
+!s100 9=]=>Nd[[>mYUXe<2Af]90
+Z7 OV;C;10.3d;59
+32
+Z8 !s110 1476301551
+!i10b 1
+Z9 !s108 1476301551.260000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|P:/DSD/lab_2_v15/g07_16_4_Encoder.vhd|
+Z11 !s107 P:/DSD/lab_2_v15/g07_16_4_Encoder.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1
+Aencoder_16_4
+R1
+R2
+R3
+DEx4 work 16 g07_16_4_encoder 0 22 m1QMOhZ0lQ`d8kB]_2OdI3
+l13
+L12
+V17geAjgcLZ9a`HkECVT1A0
+!s100 f^Az_B1g?mV6Y<enZlj1B3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Eg07_16_4_encoder_vhd_spec_tst
+Z14 w1476197696
+R1
+R2
+R3
+R4
+Z15 8P:/DSD/lab_2_v15/simulation/modelsim/g07_16_4_Encoder_spec_tst.vhd
+Z16 FP:/DSD/lab_2_v15/simulation/modelsim/g07_16_4_Encoder_spec_tst.vhd
+l0
+L6
+VQE__2oozM=k_8gkkHYiMK1
+!s100 aW1V4Z>zf=ZOV:[:;n7>n3
+R7
+32
+Z17 !s110 1476301590
+!i10b 1
+Z18 !s108 1476301590.866000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|P:/DSD/lab_2_v15/simulation/modelsim/g07_16_4_Encoder_spec_tst.vhd|
+Z20 !s107 P:/DSD/lab_2_v15/simulation/modelsim/g07_16_4_Encoder_spec_tst.vhd|
+!i113 1
+R12
+R13
+Ag07_16_4_encoder_arch
+R1
+R2
+R3
+DEx4 work 29 g07_16_4_encoder_vhd_spec_tst 0 22 QE__2oozM=k_8gkkHYiMK1
+l21
+L8
+V;HBK5[[3JM8i<2EWPWBYB1
+!s100 ^:]BJgYY]09h0nMa=ESkD2
+R7
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R12
+R13
+Eg07_16_4_encoder_vhd_tst
+R14
+R1
+R2
+R3
+R4
+Z21 8P:/DSD/lab_2_v15/simulation/modelsim/g07_16_4_Encoder_tst.vhd
+Z22 FP:/DSD/lab_2_v15/simulation/modelsim/g07_16_4_Encoder_tst.vhd
+l0
+L6
+V7M5BeN5LPf2V8Q^<@`7bB3
+!s100 D4kNSSSXLAX?UKAjE;K=G2
+R7
+32
+Z23 !s110 1476301582
+!i10b 1
+Z24 !s108 1476301582.815000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|P:/DSD/lab_2_v15/simulation/modelsim/g07_16_4_Encoder_tst.vhd|
+Z26 !s107 P:/DSD/lab_2_v15/simulation/modelsim/g07_16_4_Encoder_tst.vhd|
+!i113 1
+R12
+R13
+Ag07_16_4_encoder_arch
+R1
+R2
+R3
+DEx4 work 24 g07_16_4_encoder_vhd_tst 0 22 7M5BeN5LPf2V8Q^<@`7bB3
+l21
+L8
+VkMRzi0ICc4_d2kPBn9F`E1
+!s100 M[5OPLbm5CW[2[nJ:K[Vn0
+R7
+32
+R23
+!i10b 1
+R24
+R25
+R26
+!i113 1
+R12
+R13
+Eg07_64_6_encoder
+R0
+R1
+R2
+R3
+R4
+Z27 8P:/DSD/lab_2_v15/g07_64_6_encoder.vhd
+Z28 FP:/DSD/lab_2_v15/g07_64_6_encoder.vhd
+l0
+L5
+VT==9=m1TNJbUIJNFX>[4z0
+!s100 SC0gjSo:>HJkdo5oZHDi=3
+R7
+32
+Z29 !s110 1476301572
+!i10b 1
+Z30 !s108 1476301572.095000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|P:/DSD/lab_2_v15/g07_64_6_encoder.vhd|
+Z32 !s107 P:/DSD/lab_2_v15/g07_64_6_encoder.vhd|
+!i113 1
+R12
+R13
+Aencoder_64_6
+R1
+R2
+R3
+DEx4 work 16 g07_64_6_encoder 0 22 T==9=m1TNJbUIJNFX>[4z0
+l21
+L11
+V9NK`X<NfzSZS^5OI>g43@1
+!s100 8zQc^BlEOXQOdM`?AE8T;1
+R7
+32
+R29
+!i10b 1
+R30
+R31
+R32
+!i113 1
+R12
+R13
+Eg07_64_6_encoder_vhd_spec_tst
+R14
+R1
+R2
+R3
+R4
+Z33 8P:/DSD/lab_2_v15/simulation/modelsim/g07_64_6_encoder_spec_tst.vhd
+Z34 FP:/DSD/lab_2_v15/simulation/modelsim/g07_64_6_encoder_spec_tst.vhd
+l0
+L6
+VX?@ldfeT@LVI_<fblg:QZ1
+!s100 F4hKHRInCQee`BUD37H>Q3
+R7
+32
+Z35 !s110 1476301591
+!i10b 1
+Z36 !s108 1476301591.523000
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|P:/DSD/lab_2_v15/simulation/modelsim/g07_64_6_encoder_spec_tst.vhd|
+Z38 !s107 P:/DSD/lab_2_v15/simulation/modelsim/g07_64_6_encoder_spec_tst.vhd|
+!i113 1
+R12
+R13
+Ag07_64_6_encoder_arch
+R1
+R2
+R3
+DEx4 work 29 g07_64_6_encoder_vhd_spec_tst 0 22 X?@ldfeT@LVI_<fblg:QZ1
+l21
+L8
+VoOMgKZ4kId1nPd8_nJ53U0
+!s100 7TDo4YKJ=Kl=R@WNozk7b1
+R7
+32
+R35
+!i10b 1
+R36
+R37
+R38
+!i113 1
+R12
+R13
+Eg07_7_segment_decoder
+Z39 w1476302420
+R1
+R2
+R3
+R4
+Z40 8P:/DSD/lab_2_v15/g07_7_segment_decoder.vhd
+Z41 FP:/DSD/lab_2_v15/g07_7_segment_decoder.vhd
+l0
+L5
+V:dQf]CO5d`ZT^E0YBnDne3
+!s100 15i[1Xgz`1T]AX[_SEz600
+R7
+32
+Z42 !s110 1476302425
+!i10b 1
+Z43 !s108 1476302425.681000
+Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|P:/DSD/lab_2_v15/g07_7_segment_decoder.vhd|
+Z45 !s107 P:/DSD/lab_2_v15/g07_7_segment_decoder.vhd|
+!i113 1
+R12
+R13
+Adecoder_7_segment_arch
+R1
+R2
+R3
+DEx4 work 21 g07_7_segment_decoder 0 22 :dQf]CO5d`ZT^E0YBnDne3
+l13
+L11
+Vhj>[<:_ENGz]o>i5WAOX82
+!s100 G4gT4]SObZ2a8jlBS83?G2
+R7
+32
+R42
+!i10b 1
+R43
+R44
+R45
+!i113 1
+R12
+R13
+Eg07_7_segment_decoder_tst
+Z46 w1476203501
+R1
+R2
+R3
+R4
+Z47 8P:/DSD/lab_2_v15/simulation/modelsim/g07_7_segment_decoder_tst.vhd
+Z48 FP:/DSD/lab_2_v15/simulation/modelsim/g07_7_segment_decoder_tst.vhd
+l0
+L6
+VHSe[ZNz:UH;;FkB43>C>C2
+!s100 8VN6<NQoT[XGF1V=lkJRO1
+R7
+32
+Z49 !s110 1476301600
+!i10b 1
+Z50 !s108 1476301600.379000
+Z51 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|P:/DSD/lab_2_v15/simulation/modelsim/g07_7_segment_decoder_tst.vhd|
+Z52 !s107 P:/DSD/lab_2_v15/simulation/modelsim/g07_7_segment_decoder_tst.vhd|
+!i113 1
+R12
+R13
+Ag07_display_decoder_arch
+R1
+R2
+R3
+DEx4 work 25 g07_7_segment_decoder_tst 0 22 HSe[ZNz:UH;;FkB43>C>C2
+l17
+L8
+Vki>AT1aD55eNjT?D[Y4>z3
+!s100 38`=WF44E[ZdoJKaKKBRH3
+R7
+32
+R49
+!i10b 1
+R50
+R51
+R52
+!i113 1
+R12
+R13
+Eg07_keyboard_encoder
+Z53 w1476302329
+R1
+R2
+R3
+R4
+Z54 8P:/DSD/lab_2_v15/g07_keyboard_encoder.vhd
+Z55 FP:/DSD/lab_2_v15/g07_keyboard_encoder.vhd
+l0
+L5
+V6YZ^h2^aTM]3`GogKZIck2
+!s100 If`_fAI9TeDb4cX9GX]BG1
+R7
+32
+Z56 !s110 1476302340
+!i10b 1
+Z57 !s108 1476302339.919000
+Z58 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|P:/DSD/lab_2_v15/g07_keyboard_encoder.vhd|
+Z59 !s107 P:/DSD/lab_2_v15/g07_keyboard_encoder.vhd|
+!i113 1
+R12
+R13
+Aencoder_keyboard
+R1
+R2
+R3
+DEx4 work 20 g07_keyboard_encoder 0 22 6YZ^h2^aTM]3`GogKZIck2
+l20
+L11
+VIQkzPJch8K94<:DTTY?OY1
+!s100 M1Q0512ef<`A6dE;TUhY<3
+R7
+32
+R56
+!i10b 1
+R57
+R58
+R59
+!i113 1
+R12
+R13
+Eg07_keyboard_encoder_vhd_spec_tst
+Z60 w1476302717
+R1
+R2
+R3
+R4
+Z61 8P:/DSD/lab_2_v15/simulation/modelsim/g07_keyboard_encoder_spec_tst.vhd
+Z62 FP:/DSD/lab_2_v15/simulation/modelsim/g07_keyboard_encoder_spec_tst.vhd
+l0
+L6
+V;WhP>_[kDn07>gX]h_2am1
+!s100 f6d`R6`:ooU7WOo?<DH6G0
+R7
+32
+Z63 !s110 1476302721
+!i10b 1
+Z64 !s108 1476302721.516000
+Z65 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|P:/DSD/lab_2_v15/simulation/modelsim/g07_keyboard_encoder_spec_tst.vhd|
+Z66 !s107 P:/DSD/lab_2_v15/simulation/modelsim/g07_keyboard_encoder_spec_tst.vhd|
+!i113 1
+R12
+R13
+Ag07_keyboard_encoder_arch
+R1
+R2
+R3
+Z67 DEx4 work 33 g07_keyboard_encoder_vhd_spec_tst 0 22 ;WhP>_[kDn07>gX]h_2am1
+l19
+L8
+VNTCGA04?_N6fmIalMDDcH1
+!s100 cM;;RHD?VnGcSd0=5iRBV2
+R7
+32
+R63
+!i10b 1
+R64
+R65
+R66
+!i113 1
+R12
+R13
